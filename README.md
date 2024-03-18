@@ -1,7 +1,7 @@
-# Pizza Sales Analysis Report
+# Pizza Sales Analysis Report (Power BI)
 
 ## Introduction:
-This report covers the analysis of pizza sales from January 2015 to December 2015. The aim of the analysis is to uncover valuable insights that will drive business growth and make data-driven decisions.
+This report covers the analysis of pizza sales from January 2015 to December 2015. The analysis aims to uncover valuable insights that will drive business growth and make data-driven decisions.
 
 ## Problem Statement:
 The pizza business has been thriving, but to sustain and enhance its growth, a deeper understanding of sales performance is needed. Specifically:
