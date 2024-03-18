@@ -31,6 +31,9 @@ From the exploration, the following were seen:
 -	The total sales of pizza were 49,574
 -	The average pizzas per order was 2.322.
 
+![image](https://github.com/matth-adenyo/Pizza_Sales_Analysis-Power-BI/assets/69389739/638b2396-daa5-4361-ac6f-3fb8dcaac24e)
+
+
 ## Data Analysis:
 1.	Sales Trends: I analyse daily and monthly sales trends to spot patterns in customer ordering behaviour.
 2.	Percentage of Sales by Pizza Category and Size: I determine the percentage of sales for each pizza category and size which gives more insights into the business performance.
@@ -67,6 +70,7 @@ The daily trends of pizza were:
 -	Regular - 21.77%
 -	X-Large - 1.72%
 -	XX-Large - 0.12%
+
 *Note: During the data cleaning, I did some conversion changing L – Large, M – Medium, S – Regular, XL – X-Large and XXL – XX-Large.*
 
 ### The total pizzas sold by pizza category were:
@@ -74,6 +78,9 @@ The daily trends of pizza were:
 -	Supreme - 11,987
 -	Veggie - 11,649
 -	Chicken - 11,050
+
+![image](https://github.com/matth-adenyo/Pizza_Sales_Analysis-Power-BI/assets/69389739/0ef515f4-5277-4c29-abce-3a8beafb19d0)
+
 
 ### Top and Bottom Performers by Revenue:
 ### Top 5:
@@ -116,6 +123,9 @@ The daily trends of pizza were:
 -	The Spinach Supreme Pizza
 -	The Mediterranean Pizza
 -	The Brie Carre Pizza
+
+![image](https://github.com/matth-adenyo/Pizza_Sales_Analysis-Power-BI/assets/69389739/486b5de2-d2c6-4bce-af97-4f7ade617c36)
+
 
 ## Conclusion:
 The analysis has unveiled critical insights that can guide business decisions. Some of these are as follows:
